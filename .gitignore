@@ -1,2 +1,7 @@
 pkg/
 Gemfile.lock
+.vagrant
+.librarian
+.tmp
+Puppetfile.lock
+Vagrantfile
